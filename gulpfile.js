@@ -20,7 +20,7 @@ gulp.task('default', ['js'], function() {
 
     return gulp.src([
             'client/www/**/*.*',
-            '!client/www/**/*.js'
+            '!client/www/js/**/*.js'
         ])
         .pipe(gulp.dest('server/www'));
 });

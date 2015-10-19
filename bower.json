@@ -1,0 +1,24 @@
+{
+  "name": "audio-processing",
+  "version": "0.0.1",
+  "authors": [
+    "Владимир Шамшеев <shvr93@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/www/js/vendor/script",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.3"
+  }
+}
